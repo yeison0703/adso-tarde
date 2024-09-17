@@ -7,3 +7,7 @@ h1{
     align-items: center;
     color: aliceblue;
 }
+section{
+    justify-content: center;
+    align-items: center;
+}
