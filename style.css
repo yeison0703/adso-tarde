@@ -15,12 +15,22 @@ section{
 .container{
     width: 100%;
     height:auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 7rem;
+
 }
 .tarjeta1{width: 400px;
     height: 400px;
+    display: flex;
+    flex-direction: column;
+
 }
 
 .tarjeta2{
     width: 400px;
     height: 400px;
+    display: flex;
+    flex-direction: column;
 }
