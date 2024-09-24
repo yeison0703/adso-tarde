@@ -16,7 +16,11 @@ section{
     width: 100%;
     height:auto;
 }
-.tarjeta1{
+.tarjeta1{width: 400px;
+    height: 400px;
+}
+
+.tarjeta2{
     width: 400px;
     height: 400px;
 }
